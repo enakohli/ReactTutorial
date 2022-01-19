@@ -3,8 +3,8 @@
 A react tutorial following this series by Codevolution: https://www.youtube.com/watch?v=QFaFIcGhPoM&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3
 
 Learned:
-- Class and Functional Components
-- Hooks
+- Class Components
+- Functional Components
 - JSX
 - Props and State
 - Event Handling
@@ -20,4 +20,3 @@ Learned:
 - Error Boundaries
 - Higher Order Components
 - Render Props
-- Context
