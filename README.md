@@ -2,7 +2,7 @@
 
 A react tutorial following this series by Codevolution: https://www.youtube.com/watch?v=QFaFIcGhPoM&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3
 
-Learned:
+I learned the basics of:
 - Class Components
 - Functional Components
 - JSX
