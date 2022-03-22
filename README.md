@@ -20,3 +20,5 @@ I learned the basics of:
 - Error Boundaries
 - Higher Order Components
 - Render Props
+
+I was able to use all that I learned, for my software developer coop, and was able to apply this tutorial to learn styled components, and create applications on React.
