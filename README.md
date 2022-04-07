@@ -21,4 +21,4 @@ I learned the basics of:
 - Higher Order Components
 - Render Props
 
-I was able to use all that I learned, for my software developer coop, and was able to apply this tutorial to learn styled components, and create applications on React.
+I was able to use all that I learned, for my software developer co-op in the Ontario Digital Service, and was able to apply this tutorial to learn styled components, and create applications utilizing React.
